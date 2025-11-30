@@ -73,7 +73,7 @@ python main.py
 ### 4. Pixel Font Mode
 
 Zelda64의 원본 텍스트 느낌을 위한 "1비트 픽셀 렌더"\
-특히 OOT의 카카리코/상점류 텍스트 스타일에 어울림.
+특히 OOT의 액션 아이콘 텍스트 스타일에 어울림.
 
 ### 5. Boss Card Mode
 
