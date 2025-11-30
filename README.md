@@ -1,4 +1,4 @@
-# Zelda Text Tool 1.00 --- Korean Font Fix + Stretch Patch
+# Zelda Image Tool 1.00
 
 이 도구는 **젤다의 전설 Ocarina of Time / Master Quest** 이미지 편집을
 위해 제작된 PyQt5 기반 툴입니다.\
